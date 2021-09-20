@@ -1,0 +1,6 @@
+/logs/car_logs/*
+!/logs/car_logs/.gitkeep
+/logs/uwb_logs/*
+!/logs/uwb_logs/.gitkeep
+/.idea
+/__pycache__
